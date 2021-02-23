@@ -2,14 +2,9 @@
     padding: 10px;
 }
 
-.photo {
-    display: flex;
-    justify-content: space-around;
-}
 
 .photo > img {
     width: 100%;
-    min-width: ;
     border: 1vw solid rgb(255, 255, 255);
 }
 
